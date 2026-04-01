@@ -1,0 +1,6 @@
+# ignore log file
+*.log
+
+# ignore transformed csv file 
+all_ids.csv
+
