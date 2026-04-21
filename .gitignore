@@ -4,3 +4,6 @@
 # ignore transformed csv file 
 all_ids.csv
 
+# ignore new data files so we don't keep updating them every time
+
+*.csv
